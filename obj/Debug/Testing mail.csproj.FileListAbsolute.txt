@@ -1,0 +1,9 @@
+C:\Proyectos\Mios\Testing mail\bin\Debug\Testing mail.exe
+C:\Proyectos\Mios\Testing mail\bin\Debug\Testing mail.pdb
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing mail.csprojAssemblyReference.cache
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing_mail.Form1.resources
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing_mail.Properties.Resources.resources
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing mail.csproj.GenerateResource.cache
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing mail.csproj.CoreCompileInputs.cache
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing mail.exe
+C:\Proyectos\Mios\Testing mail\obj\Debug\Testing mail.pdb
